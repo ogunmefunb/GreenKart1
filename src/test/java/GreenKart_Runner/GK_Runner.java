@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		strict = true,
-		features = "TestGreenKart1/src/main/resources/GreenKart_Features/GreenKart_checkoutVerification.feature",
+		features = "src/main/resources/GreenKart_Features/GreenKart_checkoutVerification.feature",
 		glue = ""
 		)
 
