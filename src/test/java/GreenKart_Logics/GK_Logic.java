@@ -32,7 +32,7 @@ public class GK_Logic {
 				driver = new ChromeDriver();
 				driver.manage().timeouts().implicitlyWait(5, TimeUnit.MINUTES);
 				driver.manage().window().maximize();
-				driver.get(url);
+//				driver.get(url);
 		
 			}
 	
